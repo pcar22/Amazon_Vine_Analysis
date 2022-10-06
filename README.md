@@ -9,13 +9,13 @@ The purpose of this project is to analyze Amazon reviews written by members of t
     - There are 34 5-star reviews from paid Vine members.
     - The percentage of 5-star reviews from paid Vine members is .5666.
 
-![total_paid_Vine]()
+![total_paid_Vine](https://github.com/pcar22/Amazon_Vine_Analysis/blob/main/Resources/total_paid_Vine.png)
 
     - There is a total of 14,477 reviews from unpaid Vine members.
     - There are 8,212 5-star reviews from unpaid Vine members.
     - The percentage of 5-star reviews from unpaid Vine members is .5672.
 
-![total_unpaid_Vine]()
+![total_unpaid_Vine](https://github.com/pcar22/Amazon_Vine_Analysis/blob/main/Resources/total_unpaid_Vine.png)
 
 ## Summary
 The results show that despite the lower number of reviewers from the Amazon Vine program, 60 compared to 14,477, the percentage of 5 star reviews were basically the same as the unpaid Vine reviewers. This could indicate a non bias towards giving a 5 star ratings due to the fact that you were given free product.
